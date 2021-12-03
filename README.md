@@ -39,7 +39,7 @@ At first glance we see that many of the Returns were in the negative but let's r
 
 It seems we are seeing the stocks having a different Total Daily Volume than 2017 but let's look at the glaring difference as we review the Return for 2018.
 
-
+#### A Look at 2018 Return
 ![Screen Shot 2021-12-03 at 9 08 42 AM](https://user-images.githubusercontent.com/93485455/144648659-dba79a2a-3df7-4354-8ef0-f04d55eb9720.png)
 
 We see that there are only two stocks that performed better overall for the year – RUN and ENPH. But let's now try to compare the two years and see what the data tells us.
@@ -50,8 +50,23 @@ We see that there are only two stocks that performed better overall for the year
 To getting a better glimspe in comparing the two data sets we have combined the tables and have two additonal columns with some calculations based of what we know. By adding the column Difference in Total Daily Volume, where we take the volumes for 2017 and compare to the volumes of 2018, it is clear that there are seven stocks that more activity in 2018 than 2017. But to get an even clearer picture of what stocks did the best over the two years lets sort the Return Over 2 Years with the best results at the top. The stock ENPH had the best return over two years with 211.45% followed by SEDG, DQ and RUN.
 
 ### Performance of Original Script
+The original script had the run times as follows:
+
+Original 2017 Script Result
+![Pre-refactor 2017 Results](https://user-images.githubusercontent.com/93485455/144658035-05d39329-28c7-4bf0-bf67-0155836c7038.png)
+
+Original 2018 Script Result
+![Pre-refactor 2018 Results](https://user-images.githubusercontent.com/93485455/144658076-c41f2b72-8139-4064-90c4-82a083a568c3.png)
+
 
 ### Performance of Refactored Script
+
+Re-factored 2017 Script Result
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/93485455/144658323-bade394b-a68c-426b-b4f6-1f28ddc0ee99.png)
+
+Re-factored 2018 Script Result
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/93485455/144658344-b3a31576-7485-436a-875e-73574f57eeff.png)
+
 
 ## Summary
 
