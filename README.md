@@ -53,18 +53,22 @@ To getting a better glimspe in comparing the two data sets we have combined the 
 The original script had the run times as follows:
 
 Original 2017 Script Result
+
 ![Pre-refactor 2017 Results](https://user-images.githubusercontent.com/93485455/144658035-05d39329-28c7-4bf0-bf67-0155836c7038.png)
 
 Original 2018 Script Result
+
 ![Pre-refactor 2018 Results](https://user-images.githubusercontent.com/93485455/144658076-c41f2b72-8139-4064-90c4-82a083a568c3.png)
 
 
 ### Performance of Refactored Script
 
 Re-factored 2017 Script Result
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/93485455/144658323-bade394b-a68c-426b-b4f6-1f28ddc0ee99.png)
 
 Re-factored 2018 Script Result
+
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/93485455/144658344-b3a31576-7485-436a-875e-73574f57eeff.png)
 
 
