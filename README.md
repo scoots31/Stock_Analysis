@@ -63,11 +63,11 @@ Original 2018 Script Result
 
 ### Performance of Refactored Script
 
-Re-factored 2017 Script Result
+Refactored 2017 Script Result
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/93485455/144658323-bade394b-a68c-426b-b4f6-1f28ddc0ee99.png)
 
-Re-factored 2018 Script Result
+Refactored 2018 Script Result
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/93485455/144658344-b3a31576-7485-436a-875e-73574f57eeff.png)
 
@@ -76,4 +76,23 @@ Re-factored 2018 Script Result
 
 - What are the advantages or disadvantages of refactoring code?
 
+ > The purposes of refactoring according to Martin Fowler (Father of Code Smell) are stated in the following:
+
+ > 1. Refactoring Improves the Design of Software
+ > 2. Refactoring Makes Software Easier to Understand
+ > 3. Refactoring Helps Finding Bugs
+ > 4. Refactoring Helps Programming Faster
+
+ It also allow the code to be more adaptive over time and allows for the ability to bring new developers into the code without much training if refactored properly.
+ 
+ The disadvatanges of refactoring code is that it takes time and money which may not be available or limited. 
+
 - How do these pros and cons apply to refactoring the original VBA script?
+
+ The disadvantages just mentioned do not come into play in our execercise but all of the advantages do. Let's address them one at a time.
+ 
+  1. **Refactoring Improves the Design of Software** in our exercise allowed us to make the code more streamline and allowed for the script to address if the data       set were to change or grow in size and the run time is greatly improved thus not taxing the memory of the system and making the user experience better.
+  2. **Refactoring Makes Software Easier to Understand** in our exercise by reducing the amount of code and adding more concise commenting on the script, it allows     for us to revist this code later down the road or someone entirely new to review the code and have a good understanding of what is trying to be acheived.
+  3. **Refactoring Helps Finding Bugs** which in our exercise there were a few that cropped up but because the code was paired down, it allowed us to find the           issues and resolve them quickly.
+  4. **Refactoring Helps Programming Faster** because now that the code is streamlined and commented, it allows for us or anyone else to add functional code to         improve and expand the capabilities of the script.
+
