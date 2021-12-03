@@ -75,7 +75,7 @@ Refactored 2018 Script Result
 
 ## Summary
 
-- What are the advantages or disadvantages of refactoring code?
+### What are the advantages or disadvantages of refactoring code?
 
  > The purposes of refactoring according to Martin Fowler (Father of Code Smell) are stated in the following:
 
@@ -88,7 +88,7 @@ Refactored 2018 Script Result
  
  The disadvatanges of refactoring code is that it takes time and money which may not be available or limited. 
 
-- How do these pros and cons apply to refactoring the original VBA script?
+### How do these pros and cons apply to refactoring the original VBA script?
 
  The disadvantages just mentioned do not come into play in our execercise but all of the advantages do. Let's address them one at a time.
  
